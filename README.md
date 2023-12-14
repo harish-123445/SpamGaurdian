@@ -50,6 +50,7 @@ To run the Flask application and perform spam detection:
 
 
 I hereby attach the output files
+![plot](image.png)
 
 ## Acknowledgments
 
